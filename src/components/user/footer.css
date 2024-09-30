@@ -1,0 +1,65 @@
+.footer {
+    background-color: #45595b;
+}
+
+.footer .btn {
+    border: 1px solid rgb(10, 146, 231);
+    color: rgb(10, 146, 231);
+}
+
+.footer .footer-item a {
+    color: rgb(182, 0, 167);
+}
+
+.footer .btn:hover {
+    border: 1px solid rgb(10, 146, 231);
+    color: #fff;
+    background-color: rgb(10, 146, 231);
+}
+
+.footer .footer-item .btn-link {
+    line-height: 35px;
+    color: rgba(255, 255, 255, .5);
+    transition: 0.5s;
+}
+
+.footer .footer-item .btn-link:hover {
+    color: rgb(10, 146, 231);
+}
+
+.footer .footer-item p.mb-4 {
+    line-height: 35px;
+
+}
+
+.footer a {
+    text-decoration: none;
+}
+
+.footer .btn-sub-now {
+    background-color: rgb(10, 146, 231);
+}
+
+.footer .btn-sub-now:hover {
+    background-color: rgb(80, 148, 190);
+}
+
+.btn-outline-secondary {
+    color: rgb(10, 146, 231);
+    border-color: rgb(10, 146, 231);
+}
+
+.back-to-top {
+    background: rgb(4, 149, 240) !important;
+    border: none !important;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    display: flex;
+    width: 45px;
+    height: 45px;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+    z-index: 99;
+}
